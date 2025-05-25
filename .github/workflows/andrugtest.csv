@@ -1,0 +1,39 @@
+Name,type,chemical_compound,iv,im,inhalation,pediatric_dose,adult_dose,icu_dose,nervous_system_effect,respiratory_system_effect,cardiovascular_effect,other_system_effects
+Propofol,IV,"2,6-diisopropylphenol",Y,N,N,1-2.5 mg/kg,1.5-2.5 mg/kg,Adjusted for sedation,Sedation,Depresses respiration,Decreases BP,N
+Sevoflurane,Inhalation,Fluorinated ether,N,N,Y,2-4%,2-4%,N/A,Minimal effects,Airway irritation,Minimal,N
+Isoflurane,Inhalation,Fluorinated ether,N,N,Y,1-2%,1-2%,N/A,Minimal effects,Depresses respiration,Decreases BP,N
+Ketamine,IV/IM,Arylcyclohexylamine,Y,Y,N,1-2 mg/kg (IV),4-6 mg/kg (IM),Adjusted for sedation,Stimulates,Maintains respiration,Increases BP,N
+Nitrous Oxide,Inhalation,N2O,N,N,Y,30-70%,30-70%,N/A,Analgesic effects,Minimal,Minimal,N
+Etomidate,IV,Carboxylated imidazole,Y,N,N,0.2-0.4 mg/kg,0.2-0.6 mg/kg,Adjusted for sedation,Sedation,Depresses respiration,Stable BP,N
+Desflurane,Inhalation,Fluorinated ether,N,N,Y,4-6%,4-6%,N/A,Minimal effects,Irritation at high doses,Decreases BP,N
+Halothane,Inhalation,Fluorinated hydrocarbon,N,N,Y,0.5-1%,0.5-1%,N/A,Minimal effects,Depresses respiration,Decreases BP,N
+Thiopental,IV,Barbiturate,Y,N,N,3-5 mg/kg,3-5 mg/kg,Adjusted for sedation,Sedation,Depresses respiration,Decreases BP,N
+Midazolam,IV/IM,Benzodiazepine,Y,Y,N,0.05-0.1 mg/kg,1-2.5 mg,Adjusted for sedation,Sedation/Amnesia,Minimal,Minimal,N
+Dexmedetomidine,IV,Imidazole derivative,Y,N,N,0.2-0.7 mcg/kg/hr,0.2-1 mcg/kg/hr,Adjusted for sedation,Sedation,Maintains respiration,Stable BP,N
+Lidocaine,IV/IM,Amide,Y,Y,N,0.5-1 mg/kg,50-100 mg,Adjusted for sedation,Analgesic effects,Minimal,Minimal,N
+Bupivacaine,IM,Amide,N,Y,N,1-2 mg/kg,1.5-2.5 mg/kg,N/A,N,Minimal,Minimal,Local anesthesia
+Fentanyl,IV/IM,Opioid,Y,Y,N,1-2 mcg/kg,25-100 mcg,Adjusted for sedation,Analgesic effects,Depresses respiration,Minimal,N
+Remifentanil,IV,Opioid,Y,N,N,0.05-0.2 mcg/kg/min,0.1-0.3 mcg/kg/min,Adjusted for sedation,Analgesic effects,Depresses respiration,Minimal,N
+Morphine,IV/IM,Opioid,Y,Y,N,0.05-0.1 mg/kg,2-10 mg,Adjusted for sedation,Analgesic effects,Depresses respiration,Decreases BP,N
+Succinylcholine,IV/IM,Depolarizing agent,Y,Y,N,1-2 mg/kg (IV),2-3 mg/kg (IM),N/A,N,Depresses respiration,Minimal,N
+Rocuronium,IV,Non-depolarizing agent,Y,N,N,0.6-1 mg/kg,0.6-1.2 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Atracurium,IV,Non-depolarizing agent,Y,N,N,0.4-0.5 mg/kg,0.4-0.6 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Pancuronium,IV,Non-depolarizing agent,Y,N,N,0.06-0.1 mg/kg,0.04-0.1 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Cisatracurium,IV,Non-depolarizing agent,Y,N,N,0.1-0.15 mg/kg,0.1-0.2 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Mivacurium,IV,Non-depolarizing agent,Y,N,N,0.15-0.2 mg/kg,0.15-0.2 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Vecuronium,IV,Non-depolarizing agent,Y,N,N,0.08-0.1 mg/kg,0.08-0.1 mg/kg,N/A,N,N,Minimal,Neuromuscular block
+Dantrolene,IV,Hydantoin derivative,Y,N,N,2.5 mg/kg,2.5 mg/kg,Adjusted for malignant hyperthermia,N,N,Decreases BP,Muscle relaxant
+Alfaxalone,IV,Neurosteroid,Y,N,N,2-3 mg/kg,2-5 mg/kg,Adjusted for sedation,Sedation,Depresses respiration,Stable BP,N
+Methohexital,IV,Barbiturate,Y,N,N,1-2 mg/kg,1-2 mg/kg,Adjusted for sedation,Sedation,Depresses respiration,Decreases BP,N
+Chloroprocaine,IM,Ester,N,Y,N,0.5-1 mg/kg,5-10 mg,N/A,N,N,Minimal,Local anesthesia
+Procaine,IM,Ester,N,Y,N,0.5-1 mg/kg,5-10 mg,N/A,N,N,Minimal,Local anesthesia
+Prilocaine,IM,Amide,N,Y,N,0.5-1 mg/kg,10-15 mg,N/A,N,N,Minimal,Local anesthesia
+Ropivacaine,IM,Amide,N,Y,N,1-2 mg/kg,1-2 mg/kg,N/A,N,N,Minimal,Local anesthesia
+Articaine,IM,Amide,N,Y,N,1-2 mg/kg,1-2 mg/kg,N/A,N,N,Minimal,Local anesthesia
+Tetracaine,IM,Ester,N,Y,N,1-2 mg/kg,1-2 mg/kg,N/A,N,N,Minimal,Local anesthesia
+Epinephrine,IV/IM,Adrenergic agonist,Y,Y,N,0.01 mg/kg,1 mg,Adjusted for emergency,Stimulates CNS,Bronchodilation,Increases BP,N
+Clonidine,IV/IM,Imidazoline derivative,Y,Y,N,0.5-2 mcg/kg,0.1-0.2 mg,Adjusted for sedation,Sedation,Maintains respiration,Stable BP,N
+Phenylephrine,IV,Alpha-adrenergic agonist,Y,N,N,0.1-0.5 mcg/kg,50-200 mcg,Adjusted for hypotension,N,N,Increases BP,N
+Atropine,IV/IM,Anticholinergic,Y,Y,N,0.02 mg/kg,0.5-1 mg,Adjusted for bradycardia,N,Bronchodilation,Increases HR,N
+Neostigmine,IV/IM,Cholinesterase inhibitor,Y,Y,N,0.02-0.07 mg/kg,0.5-2.5 mg,N/A,N,N,Increases BP,Reverses neuromuscular block
+Glycopyrrolate,IV/IM,Anticholinergic,Y,Y,N,0.01 mg/kg,0.1-0.2 mg,N/A,N,N,Increases HR,N
